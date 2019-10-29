@@ -1,0 +1,5 @@
+init -y
+npm install react-vr-cli
+ npx react-vr-cli init react-360
+cd  react-360
+npm start
